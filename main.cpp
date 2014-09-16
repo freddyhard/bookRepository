@@ -98,6 +98,7 @@ int main()
 
 
     books.push_back(Book("mastering machine code on your zx spectrum", "toni baker", 907563236, 1));
+    books.push_back(Book("i hate everyone... starting with me", "joan rivers", 9780425255896, 1));
     books.push_back(Book("the hobbit", "jrr tolkien", 261103288, 5));
     books.push_back(Book("the silmarillion", "jrr tolkien", 261102737, 1));
     books.push_back(Book("unfinished tales", "jrr tolkien", 261102168, 2));
